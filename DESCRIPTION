@@ -1,0 +1,14 @@
+Package: biotables
+Type: Package
+Title: Imports Common Biological Tabular Data
+Version: 0.0.1
+Date: 2015-04-22
+Author: Zach Charlop-Powers
+Maintainer: zach chalop-powers <zcharlop@rockefeller.edu>
+Description: Convenience functions for loading common tabular data formats like BLAST, HMMER3, etc.
+License: MIT
+Imports:
+    readr,
+    magrittr
+Suggests:
+    testthat
